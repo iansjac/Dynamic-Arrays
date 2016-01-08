@@ -1,7 +1,7 @@
 
 /******
  * AListTester
- * Author: Christian Duncan
+ * Author: Ian Jacobs
  * 
  * Tests out the AList ADT
  ******/

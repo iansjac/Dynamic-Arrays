@@ -1,6 +1,7 @@
 /******
  * List ADT
  * Author: Clifford Shaffer
+ *Modified by Ian Jacobs
  *
  * Defines the basic List interface
  ******/
